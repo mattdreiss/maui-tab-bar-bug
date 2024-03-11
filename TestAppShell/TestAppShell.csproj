@@ -16,6 +16,7 @@
         <OutputType>Exe</OutputType>
         <RootNamespace>TestAppShell</RootNamespace>
         <UseMaui>true</UseMaui>
+        <MauiVersion>8.0.20-nightly.*</MauiVersion>
         <SingleProject>true</SingleProject>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
